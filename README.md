@@ -1,6 +1,6 @@
 ## Notes App
 Notes App using Clean Architecture and MVVM. Made in Kotlin.
-Technologies used:
+Features:
 - Room for database access
 - UseCases for business logic
 - MVVM architecture
